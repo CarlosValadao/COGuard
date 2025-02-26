@@ -1,4 +1,4 @@
-# 🛡️ COGuard - Monitoramento de Monóxido de Carbono
+# 🛡️ COGuard - Monitoramento de Monóxido de Carbono [Vídeo de apresentação](https://youtu.be/ot9eqI7_r4o)
 
 ## 📖 Índice
 
